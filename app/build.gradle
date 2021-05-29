@@ -77,6 +77,10 @@ dependencies {
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.4.2"
     implementation "com.google.android.gms:play-services-auth:19.0.0"
 
+    //Navigation graph
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.5'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
+
     //easy permission
     implementation 'pub.devrel:easypermissions:3.0.0'
 
